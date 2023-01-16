@@ -1,2 +1,3 @@
-# patika-js-function
-Patika Javascript Function 
+# Patika.dev Javascript Function Exercise
+Patika Javascript Function Exercise 
+#              Sinan Tulum
